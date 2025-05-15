@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747337308 source:c:\users\20251si0011\documents\programação\workspace_c\exercicios_switch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
