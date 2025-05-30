@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748627874 source:c:\users\20251si0011\documents\programação\codes-c\workspace_c\exercicio_condicional_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
