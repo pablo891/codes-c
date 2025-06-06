@@ -40,7 +40,7 @@ int main(){
     }
 
     else if(mediaPonderada < 5){
-        printf("\nConceito: F");
+        printf("\nConceito: E");
     }
 
     else{
