@@ -23,19 +23,19 @@ int main(){
 
     printf("\nMédia Final: %.2f", mediaPonderada);
 
-    if(mediaPonderada >= 8 & mediaPonderada <= 10){
+    if(mediaPonderada >= 8 && mediaPonderada <= 10){
         printf("\nConceito: A");
     }
 
-    else if(mediaPonderada >= 7 & mediaPonderada < 8){
+    else if(mediaPonderada >= 7 && mediaPonderada < 8){
         printf("\nConceito: B");
     }
 
-    else if(mediaPonderada >= 6 & mediaPonderada < 7){
+    else if(mediaPonderada >= 6 && mediaPonderada < 7){
         printf("\nConceito: C");
     }
 
-    else if(mediaPonderada >= 5 & mediaPonderada < 6){
+    else if(mediaPonderada >= 5 && mediaPonderada < 6){
         printf("\nConceito: D");
     }
 
