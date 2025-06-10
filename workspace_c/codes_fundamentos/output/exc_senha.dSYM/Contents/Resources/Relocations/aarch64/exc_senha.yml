@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Applications/codes-c/workspace_c/codes_fundamentos/output/exc_senha'
+relocations:     []
+...
